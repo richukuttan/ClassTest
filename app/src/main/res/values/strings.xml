@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SensorClassTest</string>
+    <string name="title_activity_graphs">Graphs</string>
+    <!--
+    <string name="sensor_1">Temperature</string>
+    <string name="sensor_2">Pressure</string>
+    <string name="sensor_3">Light Intensity</string>
+    <string name="sensor_4">Humidity</string>
+    -->
+</resources>
